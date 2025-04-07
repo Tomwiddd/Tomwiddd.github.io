@@ -1,14 +1,14 @@
 ## About Me
 
-What's up? hey\|you
+I'm a junior at Lehigh University majoring in Finance, with a passion for data-driven decision-making and operational strategy. My experience spans both corporate and entrepreneurial environments, where I've built a versatile skill set in financial analysis, risk management, and business operations.
 
-I am an awesome student at Lehigh, you should hire me!
+Currently, I'm interning at NexAmbit Marketing through the Lehigh@NasdaqCenter program, where I support business operations and strategic initiatives in a fast-paced, innovation-focused environment.
 
-<!-- Upload your own photo and change the path -->
+Previously, I worked at PKF O’Connor Davies as a Financial Services Advisory Intern, contributing to vendor due diligence processes by creating risk assessments, summarizing private equity firm financials, and identifying key mitigation steps to support client compliance and decision-making.
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+Beyond internships, I spent 7 years running a successful self-employed venture, generating over $20,000 in revenue through data-backed market research and resale strategies. I used automated tools to source inventory and Excel to analyze profitability, optimize pricing, and forecast performance trends.
+
+I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology.
 
 ---
 
