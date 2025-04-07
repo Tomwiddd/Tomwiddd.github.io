@@ -8,7 +8,7 @@ Previously, I worked at PKF O’Connor Davies as a Financial Services Advisory I
 
 Beyond internships, I spent 7 years running a successful self-employed venture, generating over $20,000 in revenue through data-backed market research and resale strategies. I used automated tools to source inventory and Excel to analyze profitability, optimize pricing, and forecast performance trends.
 
-I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology.
+I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology. Connect with me on linkedin!
 
 ---
 
@@ -44,17 +44,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ---
 
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
-
----
-
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Golf, MMA, Football (soccer), Lifting
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
