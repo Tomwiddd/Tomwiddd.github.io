@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a junior at Lehigh University majoring in Finance, with a passion for data-driven decision-making and operational strategy. My experience spans both corporate and entrepreneurial environments, where I've built a versatile skill set in financial analysis, risk management, and business operations.
+Born in Manchester, England, I'm now a junior at Lehigh University majoring in Finance, with a passion for data-driven decision-making and operational strategy. My experience spans both corporate and entrepreneurial environments, where I've built a versatile skill set in financial analysis, risk management, and business operations.
 
 Currently, I'm interning at NexAmbit Marketing through the Lehigh@NasdaqCenter program, where I support business operations and strategic initiatives in a fast-paced, innovation-focused environment.
 
