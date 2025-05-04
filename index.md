@@ -24,19 +24,11 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+**[CEO Personalities](https://ceo-personalities.streamlit.app/)**
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-_**[CEO Personalities]([Regression_practice](https://ceo-personalities.streamlit.app/))**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ## Hobbies
 
