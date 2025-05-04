@@ -32,18 +32,11 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-## CEO Personalities
-
-https://ceo-personalities.streamlit.app/
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[CEO Personalities]([Regression_practice](https://ceo-personalities.streamlit.app/))**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 
 ## Hobbies
 
