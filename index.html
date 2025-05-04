@@ -1,41 +1,49 @@
-## About Me
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Tom Widdowson – Portfolio</title>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; padding: 1rem; }
+    table { margin-top: 1rem; }
+  </style>
+</head>
+<body>
 
+<h2>About Me</h2>
+<p>
 Born in Manchester, England, I'm now a junior at Lehigh University majoring in Finance, with a passion for data-driven decision-making and operational strategy. My experience spans both corporate and entrepreneurial environments, where I've built a versatile skill set in financial analysis, risk management, and business operations.
-
+</p>
+<p>
 Currently, I'm interning at NexAmbit Marketing through the Lehigh@NasdaqCenter program, where I support business operations and strategic initiatives in a fast-paced, innovation-focused environment.
-
+</p>
+<p>
 Previously, I worked at PKF O’Connor Davies as a Financial Services Advisory Intern, contributing to vendor due diligence processes by creating risk assessments, summarizing private equity firm financials, and identifying key mitigation steps to support client compliance and decision-making.
-
+</p>
+<p>
 Beyond internships, I spent 7 years running a successful self-employed venture, generating over $20,000 in revenue through data-backed market research and resale strategies. I used automated tools to source inventory and Excel to analyze profitability, optimize pricing, and forecast performance trends.
+</p>
+<p>
+I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology. Connect with me on <a href="https://linkedin.com">LinkedIn</a>!
+</p>
 
-I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology. Connect with me on linkedin!
+<hr>
 
----
+<h2>Portfolio</h2>
 
-## Portfolio
+<p><strong><a href="midterm_summary">Natural language processing 10-Ks to identify risks</a></strong></p>
+<img src="images/dummy_thumbnail.jpg" alt="Thumbnail"/>
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+<p><strong><a href="https://ceo-personalities.streamlit.app/">CEO Personalities</a></strong></p>
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-**[CEO Personalities](https://ceo-personalities.streamlit.app/)**
-
-<h2>CEO Return Analysis</h2>
+<h3>CEO Return Analysis (Interactive CSV Table)</h3>
 <table id="csv-table" class="display" style="width:100%">
     <thead></thead>
     <tbody></tbody>
 </table>
-
-<!-- Load jQuery and DataTables -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
 <script>
 fetch('assets/ceo_return_analysis.csv')
@@ -66,11 +74,15 @@ fetch('assets/ceo_return_analysis.csv')
   });
 </script>
 
----
+<hr>
 
-## Hobbies
+<h2>Hobbies</h2>
+<p>Golf, MMA, Football (soccer), Lifting</p>
 
-Golf, MMA, Football (soccer), Lifting
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+</body>
+</html>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
