@@ -26,7 +26,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 **[CEO Personalities](https://ceo-personalities.streamlit.app/)**
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**[Download CEO Return Analysis CSV](pdf/ceo_return_analysis.csv)**
 
 ---
 
