@@ -28,13 +28,13 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-<div style="position: relative; padding-left: 100px;">
-  <span style="position: absolute; left: 0; top: 5px; font-size: 16px; color: red;">
+<div style="position: relative; padding-left: 110px; /* Adjust padding for spacing */">
+  <span style="position: absolute; left: 0; top: 1px; /* Adjust top for vertical alignment */ font-size: 1em; color: red;">
     ➜ Click here
   </span>
-  <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank">CEO Personalities</a></strong>
+  <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank" style="font-size: 1em;">CEO Personalities</a></strong>
   <br/>
-  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 8px;"/>
+  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 8px; width: 100%; height: auto;"/>
 </div>
 
 ---
