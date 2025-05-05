@@ -26,7 +26,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 **[CEO Personalities](https://ceo-personalities.streamlit.app/)**
 
-<iframe src="pdf/CEO_analysis_PDF.pdf" width="100%" height="500px"></iframe>
+<iframe src="CEO_analysis_PDF.pdf" width="100%" height="500px"></iframe>
 
 ---
 
