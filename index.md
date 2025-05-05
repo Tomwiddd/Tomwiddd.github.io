@@ -1,14 +1,18 @@
 ## About Me
 
-Born in Manchester, England, I'm now a junior at Lehigh University majoring in Finance, with a passion for data-driven decision-making and operational strategy. My experience spans both corporate and entrepreneurial environments, where I've built a versatile skill set in financial analysis, risk management, and business operations.
+Originally from Manchester, England, I’m currently a junior at Lehigh University majoring in Finance, with a strong interest in data-driven decision-making and operational strategy. My professional experience spans both corporate and entrepreneurial settings, where I’ve developed a well-rounded skill set in financial analysis, risk management, and business operations.
 
-Currently, I'm interning at NexAmbit Marketing through the Lehigh@NasdaqCenter program, where I support business operations and strategic initiatives in a fast-paced, innovation-focused environment.
+I’m currently a Commercial Credit Intern at First Bank of Greenwich, where I support the underwriting process by conducting credit analysis and evaluating borrower financials.
 
-Previously, I worked at PKF O’Connor Davies as a Financial Services Advisory Intern, contributing to vendor due diligence processes by creating risk assessments, summarizing private equity firm financials, and identifying key mitigation steps to support client compliance and decision-making.
+In May, I completed a short-term placement at 3i Group in London, where I gained exposure to private equity deal analysis and portfolio strategy, helping assess market positioning and value creation levers across investment opportunities.
 
-Beyond internships, I spent 7 years running a successful self-employed venture, generating over $20,000 in revenue through data-backed market research and resale strategies. I used automated tools to source inventory and Excel to analyze profitability, optimize pricing, and forecast performance trends.
+During the Spring semester of my junior year, I interned with NexAmbit Marketing through the Lehigh@NasdaqCenter program. I supported strategic initiatives and operational planning in a high-growth environment. This role sharpened my communication skills, particularly through direct outreach and cold calling to prospective sponsors for a major event hosted in Columbus, Ohio.
 
-I’m always eager to take on new challenges and explore opportunities at the intersection of finance, operations, and technology. Connect with me on linkedin!
+Previously, in the summer after my sophomore year, I worked as a Financial Services Advisory Intern at PKF O’Connor Davies, where I contributed to vendor due diligence efforts. My work included drafting risk assessments, analyzing private equity firm financials, and recommending mitigation strategies to ensure client compliance.
+
+Beyond my internships, I’ve run a successful self-employed resale venture for over seven years, generating more than $20,000 in revenue. Using data-driven research, automation tools, and Excel modeling, I sourced, priced, and sold collectibles, electronics, and apparel — consistently optimizing for profitability and market demand.
+
+I’m always eager to take on new challenges at the intersection of finance, operations, and technology. Feel free to connect with me on LinkedIn!
 
 ---
 
@@ -40,5 +44,3 @@ You can show off your midterm analysis by moving the report components and outpu
 Golf, MMA, Football (soccer), Lifting
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
