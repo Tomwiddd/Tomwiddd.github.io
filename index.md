@@ -18,14 +18,6 @@ I’m always eager to take on new challenges at the intersection of finance, ope
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 <div style="position: relative; padding-left: 110px; /* Adjust padding for spacing */">
