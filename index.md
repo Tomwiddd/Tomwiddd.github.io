@@ -30,7 +30,7 @@ You can show off your midterm analysis by moving the report components and outpu
   </span>
   <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank">CEO Personalities</a></strong>
   <br/>
-  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 5px;"/>
+  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 8px;"/>
 </div>
 
 ---
