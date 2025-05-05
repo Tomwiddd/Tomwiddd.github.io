@@ -21,8 +21,8 @@ I’m always eager to take on new challenges at the intersection of finance, ope
 ---
 
 <div style="position: relative; padding-left: 110px; /* Adjust padding for spacing */">
-  <span style="position: absolute; left: 0; top: 1px; /* Adjust top for vertical alignment */ font-size: 1em; color: red;">
-    ➜ Click here
+  <span style="position: absolute; left: 0; top: 1px; /* Adjust top for vertical alignment */ font-size: 1em; color: black;">
+    Click ➜
   </span>
   <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank" style="font-size: 1em;">CEO Personalities</a></strong>
   <br/>
