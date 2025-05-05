@@ -24,9 +24,14 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-**[CEO Personalities](https://ceo-personalities.streamlit.app/)**
-
-<img src="CEO_Analysis.jpg?raw=true"/>
+<div style="position: relative; padding-left: 100px;">
+  <span style="position: absolute; left: 0; top: 5px; font-size: 16px; color: red;">
+    ➜ Click here
+  </span>
+  <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank">CEO Personalities</a></strong>
+  <br/>
+  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 5px;"/>
+</div>
 
 ---
 
