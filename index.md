@@ -18,7 +18,13 @@ I’m always eager to take on new challenges at the intersection of finance, ope
 
 ## Portfolio
 
+--- 
+S&P 500 Tickers and Returns 
+
+  <img src="S&P_500_Tickers_and_Returns.jpg?raw=true" style="margin-top: 10px; width: 100%; height: auto;"/>
+
 ---
+CEO personalities
 
 <div style="position: relative; padding-left: 110px; /* Adjust padding for spacing */">
   <span style="position: absolute; left: 0; top: 1px; /* Adjust top for vertical alignment */ font-size: 1em; color: black;">
@@ -26,7 +32,7 @@ I’m always eager to take on new challenges at the intersection of finance, ope
   </span>
   <strong><a href="https://ceo-personalities.streamlit.app/" target="_blank" style="font-size: 1em;">CEO Personalities</a></strong>
   <br/>
-  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 8px; width: 100%; height: auto;"/>
+  <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 10px; width: 100%; height: auto;"/>
 </div>
 
 ---
