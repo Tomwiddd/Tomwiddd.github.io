@@ -35,10 +35,12 @@ CEO personalities
   <img src="CEO_Analysis.jpg?raw=true" style="margin-top: 10px; width: 100%; height: auto;"/>
 </div>
 
+If the link above doesn't work please let me know and I'll reboot the website! (It goes offline due to inactivity every 5 days)
+
 ---
 
 ## Hobbies
 
-Golf, MMA, Football (soccer), Lifting
+Bodybuilding, Golf, MMA, Football (soccer)
 
 ---
